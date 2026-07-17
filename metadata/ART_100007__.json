@@ -1,0 +1,56 @@
+{
+  "doi": "10.3847/0004-637X/820/2/105",
+  "title": "ODYSSEY: A PUBLIC GPU-BASED CODE FOR GENERAL RELATIVISTIC RADIATIVE TRANSFER IN KERR SPACETIME",
+  "publication_date": "2016-03-28",
+  "language": "English",
+  "abstract": "General relativistic radiative transfer calculations coupled with the calculation of geodesics in the Kerr spacetime are an essential tool for determining the images, spectra, and light curves from matter in the vicinity of black holes. Such studies are especially important for ongoing and upcoming millimeter/submillimeter very long baseline interferometry observations of the supermassive black holes at the centers of Sgr A* and M87. To this end we introduce Odyssey, a graphics processing unit (GPU)-based code for ray tracing and radiative transfer in the Kerr spacetime. On a single GPU, the performance of Odyssey can exceed 1 ns per photon, per Runge–Kutta integration step. Odyssey is publicly available, fast, accurate, and flexible enough to be modified to suit the specific needs of new users. Along with a Graphical User Interface powered by a video-accelerated display architecture, we also present an educational software tool, Odyssey_Edu, for showing in real time how null geodesics around a Kerr black hole vary as a function of black hole spin and angle of incidence onto the black hole.",
+  "authors": [
+    {
+      "name": "Hung-Yi Pu",
+      "affiliation": [
+        {
+          "name": "Institute of Astronomy & Astrophysics, Academia Sinica",
+          "ror": "01hfpy566"
+        }
+      ],
+      "orcid": "0000-0001-9270-8812"
+    },
+    {
+      "name": "Kiyun Yun",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Center for Galaxy Evolution Research, Yonsei University",
+          "ror": "01wjejq96"
+        }
+      ],
+      "orcid": "0000-0003-1636-2455"
+    },
+    {
+      "name": "Ziri Younsi",
+      "affiliation": [
+        {
+          "name": "Institut für Theoretische Physik",
+          "ror": "025en1p25"
+        },
+        {
+          "name": "Mullard Space Science Laboratory, University College London",
+          "ror": "02jx3x895"
+        }
+      ],
+      "orcid": "0000-0001-9283-1191"
+    },
+    {
+      "name": "Suk-Jin Yoon",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Center for Galaxy Evolution Research, Yonsei University",
+          "ror": "01wjejq96"
+        }
+      ],
+      "orcid": "0000-0001-7673-6266"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100007__Pu_2016_ApJ_820_105.pdf"
+  ]
+}

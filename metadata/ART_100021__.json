@@ -1,0 +1,96 @@
+{
+  "doi": "10.3847/1538-4365/229/2/28",
+  "title": "Star Formation In Nearby Clouds (SFiNCs): X-Ray and Infrared Source Catalogs and Membership",
+  "publication_date": "2017-03-29",
+  "language": "English",
+  "abstract": "The Star Formation in Nearby Clouds (SFiNCs) project is aimed at providing a detailed study of the young stellar populations and of star cluster formation in the nearby 22 star-forming regions (SFRs) for comparison with our earlier MYStIX survey of richer, more distant clusters. As a foundation for the SFiNCs science studies, here, homogeneous data analyses of the Chandra X-ray and Spitzer mid-infrared archival SFiNCs data are described, and the resulting catalogs of over 15,300 X-ray and over 1,630,000 mid-infrared point sources are presented. On the basis of their X-ray/infrared properties and spatial distributions, nearly 8,500 point sources have been identified as probable young stellar members of the SFiNCs regions. Compared to the existing X-ray/mid-infrared publications, the SFiNCs member list increases the census of YSO members by 6%–200% for individual SFRs and by 40% for the merged sample of all 22 SFiNCs SFRs.",
+  "authors": [
+    {
+      "name": "Konstantin Getman",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-6137-8280"
+    },
+    {
+      "name": "Patrick S. Broos",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-7872-2025"
+    },
+    {
+      "name": "Michael A. Kuhn",
+      "affiliation": [
+        {
+          "name": "Instituto de Fisica y Astronomia, Universidad de Valparaiso",
+          "ror": "00h9jrb69"
+        },
+        {
+          "name": "Millenium Institute of Astrophysics",
+          "ror": "04bpmxx45"
+        }
+      ],
+      "orcid": "0000-0002-0631-7514"
+    },
+    {
+      "name": "Eric Feigelson",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-5077-6734"
+    },
+    {
+      "name": "Alexander Richert",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": "0000-0002-9613-6863"
+    },
+    {
+      "name": "Yosuke Ota",
+      "affiliation": [
+        {
+          "name": "Department of Astronomy & Astrophysics, 525 Davey Laboratory, Pennsylvania State University",
+          "ror": "04p491231"
+        }
+      ],
+      "orcid": null
+    },
+    {
+      "name": "Matthew Bate",
+      "affiliation": [
+        {
+          "name": "Department of Physics and Astronomy, University of Exeter",
+          "ror": "03yghzc09"
+        }
+      ],
+      "orcid": "0000-0002-2926-0493"
+    },
+    {
+      "name": "Gordon Garmire",
+      "affiliation": [
+        {
+          "name": "Huntingdon Institute for X-Ray Astronomy",
+          "ror": null
+        }
+      ],
+      "orcid": "0000-0002-7371-5416"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100021__Getman_2017_ApJS_229_28.pdf"
+  ]
+}

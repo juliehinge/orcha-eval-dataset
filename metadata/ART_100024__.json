@@ -1,0 +1,42 @@
+{
+  "doi": "10.3847/1538-3881/aa6d5f",
+  "title": "NPTFit: A Code Package for Non-Poissonian Template Fitting",
+  "publication_date": "2017-05-16",
+  "language": "English",
+  "abstract": "We present NPTFit, an open-source code package, written in Python and Cython, for performing non-Poissonian template fits (NPTFs). The NPTF is a recently developed statistical procedure for characterizing the contribution of unresolved point sources (PSs) to astrophysical data sets. The NPTF was first applied to Fermi gamma-ray data to provide evidence that the excess of ∼GeV gamma-rays observed in the inner regions of the Milky Way likely arises from a population of sub-threshold point sources, and the NPTF has since found additional applications studying sub-threshold extragalactic sources at high Galactic latitudes. The NPTF generalizes traditional astrophysical template fits to allow for the ability to search for populations of unresolved PSs that may follow a given spatial distribution. NPTFit builds upon the framework of the fluctuation analyses developed in X-ray astronomy, thus it likely has applications beyond those demonstrated with gamma-ray data. The NPTFit package utilizes novel computational methods to perform the NPTF efficiently. The code is available at https://github.com/bsafdi/NPTFit and up-to-date and extensive documentation may be found at http://nptfit.readthedocs.io.",
+  "authors": [
+    {
+      "name": "Siddharth Mishra-Sharma",
+      "affiliation": [
+        {
+          "name": "Department of Physics, Princeton University",
+          "ror": "00hx57361"
+        }
+      ],
+      "orcid": "0000-0001-9088-7845"
+    },
+    {
+      "name": "Nicholas L. Rodd",
+      "affiliation": [
+        {
+          "name": "Center for Theoretical Physics, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0003-3472-7606"
+    },
+    {
+      "name": "Benjamin R. Safdi",
+      "affiliation": [
+        {
+          "name": "Center for Theoretical Physics, Massachusetts Institute of Technology",
+          "ror": "042nb2s44"
+        }
+      ],
+      "orcid": "0000-0001-9531-1319"
+    }
+  ],
+  "file_paths": [
+    "files/Articles/ART_100024__Mishra-Sharma_2017_AJ_153_253.pdf"
+  ]
+}
