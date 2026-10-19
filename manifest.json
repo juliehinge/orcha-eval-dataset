@@ -875,6 +875,8 @@
       "category": "Conference_papers",
       "document": {
         "path": "files/Conference_papers/CFP_100005__2005.09889.pdf",
+        "source": "url",
+        "url": "https://arxiv.org/pdf/2005.09889",
         "sha256": "205b0709a6226d14e731ebfaf6691178f5dfb58a5b36d89a6f5f00cdc9b2abe1",
         "size": 634857
       },
@@ -1096,8 +1098,9 @@
       "category": "Preprint",
       "document": {
         "path": "files/Preprint/PRP_100002__2205.05312v2.pdf",
-        "sha256": "b1862306c49eea479c78c08a5a44cfdb1db1db4785561dcbcc74c0f0ea7c0625",
-        "size": 374581
+        "source": "url",
+        "url": "https://arxiv.org/pdf/2205.05312v2",
+        "sha256": "b1862306c49eea479c78c08a5a44cfdb1db1db4785561dcbcc74c0f0ea7c0625"
       },
       "metadata": {
         "path": "metadata/PRP_100002__.json",
@@ -1147,6 +1150,8 @@
     "PRP_100006__": {
       "category": "Preprint",
       "document": {
+        "source": "url",
+        "url": "https://arxiv.org/pdf/1912.13466",
         "path": "files/Preprint/PRP_100006__1912.13466.pdf",
         "sha256": "33317038207279c2df9b2bf069a90dad6d1c12f2fca1132cf71527cfda69e040",
         "size": 810316
